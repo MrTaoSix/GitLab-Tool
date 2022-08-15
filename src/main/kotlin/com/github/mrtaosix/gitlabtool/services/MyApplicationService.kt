@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mrtaosix.gitlabtool.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mrtaosix.gitlabtool.MyBundle
 
 class MyApplicationService {
 
